@@ -1,0 +1,24 @@
+
+Compte rendu 
+**************
+Aissa leila
+Ouadah houaria 
+
+fonction qui permet filtrer seulement les ressources de notre Api :
+
+const lettre = 'm';
+string m= string[0]
+
+const result = nom.filter(lettre == string [0] );
+
+console.log(result);
+
+********************************************
+
+
+la ligne 6 signifie : 
+
+Cache-control est un en-tête HTTP utilisé pour spécifier les politiques de mise en cache du navigateur dans les requêtes client et les réponses du serveur. Les politiques incluent la façon dont une ressource est mise en cache, où elle est mise en cache et son âge maximum avant d'expirer (c'est-à-dire sa durée de vie).
+
+L'en-tête cache-control est no-cache : la demande qu'un navigateur peut mettre en cache une réponse, mais doit d'abord soumettre une demande de validation à un serveur d'origine.
+
